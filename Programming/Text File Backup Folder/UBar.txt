@@ -1,0 +1,4 @@
+﻿"Ubar_W_nominal"= 0.02m
+"Ubar_T_nominal"= 0.0035m
+"Ubar_T_bottom"= 0.1056m
+"Ubar_L_nominal"= 0.0785m

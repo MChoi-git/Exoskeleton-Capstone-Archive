@@ -1,0 +1,2 @@
+﻿"L_upperThigh"= 0.267269m
+"t_thigh"= 0.022m

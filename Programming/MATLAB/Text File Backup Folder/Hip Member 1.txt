@@ -1,0 +1,6 @@
+﻿"D2@Sketch2" = "CORabd"
+"D1@Boss-Extrude1" = "hipMember_T"
+"D2@Sketch1" = "width1"
+"width1" = 0.4m
+"CORabd" = 0.1671m
+"hipMember_T" = 0.02m

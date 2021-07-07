@@ -1,0 +1,4 @@
+﻿"y_shank2box"= 0.34829m
+"z_shank2box"= 0.0273m
+"y_box2anchor"= 0.10855m
+"z_box2anchor"= 0.0245m

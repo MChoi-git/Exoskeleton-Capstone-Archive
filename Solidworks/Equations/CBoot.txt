@@ -1,0 +1,8 @@
+﻿"CBoot_W_nominal"= 0.3099m
+"CBoot_W_shoe"= 0.2999m
+"CBoot_L_nominal"= 0.0130m
+"CBoot_L_shoe"= 0.0035m
+"CBoot_T_nominal"= 0.1176m
+"CBoot_T_shoe"= 0.1076m
+"CBoot_L_Ubar"= 0.0055m
+"CBoot_W_Ubar"= 0.0220m

@@ -1,0 +1,3 @@
+"rubberthickness" = 0.022m
+"D1@Boss-Extrude2" = "rubberthickness" + 0.005m
+"D2@Sketch3" = "rubberthickness" / 2

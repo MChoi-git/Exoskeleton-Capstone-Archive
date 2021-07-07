@@ -1,0 +1,4 @@
+﻿"D1@Sketch3" = 0.02 / 4
+"D1@Cut-Extrude1" = 1.8*0.02
+"Length" = 0.08m
+"D1@Boss-Extrude1" = "Length"

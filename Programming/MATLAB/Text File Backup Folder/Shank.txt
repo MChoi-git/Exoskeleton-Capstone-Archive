@@ -1,0 +1,3 @@
+﻿"L_lowerShank"= 0.261094m
+"shankUbar_innerDiameter"= 0.1076m
+"t_total"= 0.022m

@@ -1,0 +1,4 @@
+﻿"COREF" = 0.2077m
+"D1@Sketch5" = "COREF"
+"hipMember2_T" = 0.0200m
+"D1@Sketch1" = "hipMember2_T"
